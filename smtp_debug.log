@@ -1,0 +1,242 @@
+2025-03-11 16:09:28: SERVER -> CLIENT: 220-ger-shire.guzelhosting.com ESMTP Exim 4.98.1 #2 Tue, 11 Mar 2025 16:09:28 +0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+2025-03-11 16:09:28: CLIENT -> SERVER: EHLO asebay.com.tr
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 250-ger-shire.guzelhosting.com Hello asebay.com.tr [51.195.87.128]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+
+2025-03-11 16:09:28: CLIENT -> SERVER: STARTTLS
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 220 TLS go ahead
+
+2025-03-11 16:09:28: CLIENT -> SERVER: EHLO asebay.com.tr
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 250-ger-shire.guzelhosting.com Hello asebay.com.tr [51.195.87.128]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+2025-03-11 16:09:28: CLIENT -> SERVER: AUTH LOGIN
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-03-11 16:09:28: CLIENT -> SERVER: [credentials hidden]
+2025-03-11 16:09:28: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-03-11 16:09:28: CLIENT -> SERVER: [credentials hidden]
+2025-03-11 16:09:28: SERVER -> CLIENT: 235 Authentication succeeded
+
+2025-03-11 16:09:28: CLIENT -> SERVER: MAIL FROM:<info@hairio.com.tr>
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 250 OK
+
+2025-03-11 16:09:28: CLIENT -> SERVER: RCPT TO:<asebayaliyilmaz@gmail.com>
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 250 Accepted
+
+2025-03-11 16:09:28: CLIENT -> SERVER: DATA
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Date: Tue, 11 Mar 2025 16:09:28 +0300
+
+2025-03-11 16:09:28: CLIENT -> SERVER: To: asebayaliyilmaz@gmail.com
+
+2025-03-11 16:09:28: CLIENT -> SERVER: From: Hairo Destek <info@hairio.com.tr>
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Subject: =?UTF-8?Q?Do=C4=9Frulama_Kodu?=
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Message-ID: <BcrKqWdAsaL9gA0PVkY1BF5pHUYReVAEoO6FOoYnQuY@asebay.com.tr>
+
+2025-03-11 16:09:28: CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-03-11 16:09:28: CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-03-11 16:09:28: CLIENT -> SERVER: 
+
+2025-03-11 16:09:28: CLIENT -> SERVER: Merhaba, doğrulama kodunuz: <strong>018868</strong>.
+
+2025-03-11 16:09:28: CLIENT -> SERVER: 
+
+2025-03-11 16:09:28: CLIENT -> SERVER: .
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 250 OK id=1trzMO-00000002tPB-20kA
+
+2025-03-11 16:09:28: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:09:28: SERVER -> CLIENT: 221 ger-shire.guzelhosting.com closing connection
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 220-ger-shire.guzelhosting.com ESMTP Exim 4.98.1 #2 Tue, 11 Mar 2025 16:15:40 +0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+2025-03-11 16:15:40: CLIENT -> SERVER: EHLO asebay.com.tr
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 250-ger-shire.guzelhosting.com Hello asebay.com.tr [51.195.87.128]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+
+2025-03-11 16:15:40: CLIENT -> SERVER: STARTTLS
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 220 TLS go ahead
+
+2025-03-11 16:15:40: CLIENT -> SERVER: EHLO asebay.com.tr
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 250-ger-shire.guzelhosting.com Hello asebay.com.tr [51.195.87.128]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+2025-03-11 16:15:40: CLIENT -> SERVER: AUTH LOGIN
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-03-11 16:15:40: CLIENT -> SERVER: [credentials hidden]
+2025-03-11 16:15:40: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-03-11 16:15:40: CLIENT -> SERVER: [credentials hidden]
+2025-03-11 16:15:40: SERVER -> CLIENT: 235 Authentication succeeded
+
+2025-03-11 16:15:40: CLIENT -> SERVER: MAIL FROM:<info@hairio.com.tr>
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 250 OK
+
+2025-03-11 16:15:40: CLIENT -> SERVER: RCPT TO:<asebayaliyilmaz@gmail.com>
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 250 Accepted
+
+2025-03-11 16:15:40: CLIENT -> SERVER: DATA
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Date: Tue, 11 Mar 2025 16:15:40 +0300
+
+2025-03-11 16:15:40: CLIENT -> SERVER: To: asebayaliyilmaz@gmail.com
+
+2025-03-11 16:15:40: CLIENT -> SERVER: From: Rio Coffee Destek <info@hairio.com.tr>
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Subject: =?UTF-8?Q?Do=C4=9Frulama_Kodu?=
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Message-ID: <X6JCMmPXylYkNLoKsRvjMtKZTNHzG2x4o0dBpG18Cs@asebay.com.tr>
+
+2025-03-11 16:15:40: CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-03-11 16:15:40: CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-03-11 16:15:40: CLIENT -> SERVER:  boundary="b1=_X6JCMmPXylYkNLoKsRvjMtKZTNHzG2x4o0dBpG18Cs"
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: --b1=_X6JCMmPXylYkNLoKsRvjMtKZTNHzG2x4o0dBpG18Cs
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Merhaba, doğrulama kodunuz: 606354
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: --b1=_X6JCMmPXylYkNLoKsRvjMtKZTNHzG2x4o0dBpG18Cs
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: Merhaba, doğrulama kodunuz: <strong>606354</strong>.
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: --b1=_X6JCMmPXylYkNLoKsRvjMtKZTNHzG2x4o0dBpG18Cs--
+
+2025-03-11 16:15:40: CLIENT -> SERVER: 
+
+2025-03-11 16:15:40: CLIENT -> SERVER: .
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 250 OK id=1trzSO-00000002wu9-2kdW
+
+2025-03-11 16:15:40: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:15:40: SERVER -> CLIENT: 221 ger-shire.guzelhosting.com closing connection
+
+2025-03-11 16:16:46: SMTP ERROR: Failed to connect to server: Connection refused (111)
+2025-03-11 16:16:46: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+2025-03-11 16:16:56: SMTP ERROR: Failed to connect to server: Connection refused (111)
+2025-03-11 16:16:56: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+2025-03-11 16:17:05: SMTP ERROR: Failed to connect to server: Connection refused (111)
+2025-03-11 16:17:05: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: CLIENT -> SERVER: QUIT
+
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:20:16: SERVER -> CLIENT: 
+2025-03-11 16:20:16: SMTP ERROR: QUIT command failed: 
+2025-03-11 16:21:56: SERVER -> CLIENT: 
+2025-03-11 16:21:56: SMTP Error: Could not connect to SMTP host.

@@ -1,0 +1,401 @@
+[30-Jan-2025 18:31:44 Europe/Istanbul] PHP Notice:  Undefined variable: conn in /home/asebayco/public_html/moods/yonetici/yonetici-ekle.php on line 30
+[30-Jan-2025 18:31:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/asebayco/public_html/moods/yonetici/yonetici-ekle.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/yonetici-ekle.php on line 30
+[30-Jan-2025 18:42:27 Europe/Istanbul] PHP Warning:  require_once(./inc/db.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/yonetici-ekle.php on line 3
+[30-Jan-2025 18:42:27 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required './inc/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/yonetici-ekle.php on line 3
+[30-Jan-2025 18:48:30 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 19
+[30-Jan-2025 18:48:30 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 19
+[30-Jan-2025 18:48:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 19
+[30-Jan-2025 18:54:47 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 33
+[30-Jan-2025 18:54:47 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 33
+[30-Jan-2025 18:54:47 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 33
+[30-Jan-2025 18:58:05 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:05 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:25 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 104
+[30-Jan-2025 18:58:45 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 48
+[30-Jan-2025 18:58:45 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 48
+[30-Jan-2025 18:58:45 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 48
+[30-Jan-2025 18:59:32 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:32 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:32 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:33 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:33 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:33 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:59 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:59 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 18:59:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:20 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:20 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:20 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:22 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:22 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:24 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:24 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:00:24 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 52
+[30-Jan-2025 19:04:58 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 94
+[30-Jan-2025 19:04:58 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 94
+[30-Jan-2025 19:04:58 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 94
+[30-Jan-2025 19:07:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:07:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:07:25 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:07:34 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:07:34 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:07:34 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:08:59 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:08:59 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:08:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:09:05 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:09:05 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:09:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:14 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:14 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:46 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:46 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:46 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:49 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:49 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:11:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:14 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:14 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:18 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:18 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:27 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:27 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:12:27 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[30-Jan-2025 19:34:35 Europe/Istanbul] PHP Warning:  move_uploaded_file(uploads/1738254875_image-11.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 19:34:35 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLGvdjs' to 'uploads/1738254875_image-11.jpg' in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 19:35:40 Europe/Istanbul] PHP Warning:  move_uploaded_file(uploads/1738254940_image-11.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 19:35:40 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqIM3Pw' to 'uploads/1738254940_image-11.jpg' in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 19:35:57 Europe/Istanbul] PHP Warning:  move_uploaded_file(uploads/1738254957_image-11.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 19:35:57 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8V4Xga' to 'uploads/1738254957_image-11.jpg' in /home/asebayco/public_html/moods/yonetici/kampanya-ekle.php on line 40
+[30-Jan-2025 20:08:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/asebayco/public_html/moods/yonetici/menu-ekle.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/menu-ekle.php on line 30
+[30-Jan-2025 20:39:11 Europe/Istanbul] PHP Notice:  Undefined variable: kullanicilar in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[30-Jan-2025 20:39:11 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[30-Jan-2025 20:40:13 Europe/Istanbul] PHP Notice:  Undefined variable: kullanicilar in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[30-Jan-2025 20:40:13 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[30-Jan-2025 20:43:12 Europe/Istanbul] PHP Notice:  Undefined variable: kullanicilar in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[30-Jan-2025 20:43:12 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asebayco/public_html/moods/yonetici/kupon-ekle.php on line 93
+[31-Jan-2025 22:40:12 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[31-Jan-2025 22:40:12 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[31-Jan-2025 22:40:12 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[31-Jan-2025 22:47:55 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[31-Jan-2025 22:47:55 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[31-Jan-2025 22:47:55 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 14:01:44 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 14:01:44 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 14:01:44 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 14:08:46 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/asebayco/public_html/moods/yonetici/qr-tarat.php:119
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/qr-tarat.php(119): PDO->rollBack()
+#1 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/qr-tarat.php on line 119
+[01-Feb-2025 20:51:32 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:51:32 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:51:32 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:51:37 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:51:37 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:51:37 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:58:53 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:58:53 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:58:53 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:58:56 Europe/Istanbul] PHP Notice:  Undefined variable: mesaj in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 59
+[01-Feb-2025 20:58:56 Europe/Istanbul] PHP Notice:  Undefined variable: yoneticiler in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 86
+[01-Feb-2025 20:58:56 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 86
+[01-Feb-2025 20:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: mesaj in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 59
+[01-Feb-2025 20:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: yoneticiler in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 86
+[01-Feb-2025 20:59:03 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asebayco/public_html/moods/yonetici/yoneticiler.php on line 86
+[01-Feb-2025 20:59:28 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:28 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:28 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:30 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:30 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:33 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:33 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 20:59:33 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:17 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:17 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:17 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:24 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:24 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:24 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:42 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:42 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:05:42 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:22 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:22 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:25 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:14:25 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 21:15:50 Europe/Istanbul] PHP Warning:  move_uploaded_file(../uploads/679e64d6d1550_image-12.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 40
+[01-Feb-2025 21:15:50 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpt6t8NE' to '../uploads/679e64d6d1550_image-12.jpg' in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 40
+[01-Feb-2025 21:15:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php:67
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/menu-duzenle.php(67): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 67
+[01-Feb-2025 21:18:38 Europe/Istanbul] PHP Warning:  move_uploaded_file(../uploads/679e657eb2f50_image-12.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 49
+[01-Feb-2025 21:18:38 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpu3iNoP' to '../uploads/679e657eb2f50_image-12.jpg' in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 49
+[01-Feb-2025 21:18:52 Europe/Istanbul] PHP Warning:  move_uploaded_file(../uploads/679e658c7520b_image-12.jpg): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 49
+[01-Feb-2025 21:18:52 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIO7EF4' to '../uploads/679e658c7520b_image-12.jpg' in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 49
+[01-Feb-2025 21:38:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 86
+[01-Feb-2025 21:38:44 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 86
+[01-Feb-2025 21:39:16 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 86
+[01-Feb-2025 22:05:03 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:05:03 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:05:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:16:23 Europe/Istanbul] PHP Warning:  require_once(../inc/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:16:23 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required '../inc/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:16:31 Europe/Istanbul] PHP Warning:  require_once(../inc/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:16:31 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required '../inc/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:17:18 Europe/Istanbul] PHP Warning:  require_once(../../inc/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:17:18 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required '../../inc/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:17:32 Europe/Istanbul] PHP Warning:  require_once(../inc/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:17:32 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required '../inc/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/kullanici-ekle.php on line 4
+[01-Feb-2025 22:25:40 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:25:40 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:25:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:34:19 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:34:19 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:34:19 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:00 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:00 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:03 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:03 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:35:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:40:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/asebayco/public_html/moods/yonetici/qr-tarat.php on line 407
+[01-Feb-2025 22:40:38 Europe/Istanbul] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/asebayco/public_html/moods/yonetici/qr-tarat.php on line 407
+[01-Feb-2025 22:47:11 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:47:11 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:47:11 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 126
+[01-Feb-2025 22:47:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_all() in /home/asebayco/public_html/moods/yonetici/grafikler.php:17
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/grafikler.php(27): getMenuDagilimi()
+#1 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/grafikler.php on line 17
+[01-Feb-2025 22:47:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_all() in /home/asebayco/public_html/moods/yonetici/grafikler.php:17
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/grafikler.php(27): getMenuDagilimi()
+#1 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/grafikler.php on line 17
+[01-Feb-2025 22:50:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT' in /home/asebayco/public_html/moods/yonetici/grafikler.php:33
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/grafikler.php(33): PDO->query('\n        SELECT...')
+#1 /home/asebayco/public_html/moods/yonetici/grafikler.php(59): getAylikKullaniciArtisi()
+#2 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/grafikler.php on line 33
+[01-Feb-2025 22:50:33 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT' in /home/asebayco/public_html/moods/yonetici/grafikler.php:33
+Stack trace:
+#0 /home/asebayco/public_html/moods/yonetici/grafikler.php(33): PDO->query('\n        SELECT...')
+#1 /home/asebayco/public_html/moods/yonetici/grafikler.php(59): getAylikKullaniciArtisi()
+#2 {main}
+  thrown in /home/asebayco/public_html/moods/yonetici/grafikler.php on line 33
+[01-Feb-2025 23:00:08 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 193
+[01-Feb-2025 23:00:08 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 193
+[01-Feb-2025 23:00:08 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 193
+[01-Feb-2025 23:01:09 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 172
+[01-Feb-2025 23:01:09 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 172
+[01-Feb-2025 23:01:09 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 172
+[01-Feb-2025 23:02:21 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 175
+[01-Feb-2025 23:02:21 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 175
+[01-Feb-2025 23:02:21 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 175
+[01-Feb-2025 23:02:50 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:02:50 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:02:50 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:03:52 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:03:52 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:03:52 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:04:57 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:04:57 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:04:57 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:05:10 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:05:10 Europe/Istanbul] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:05:10 Europe/Istanbul] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/asebayco/public_html/moods/yonetici/dashboard.php on line 178
+[01-Feb-2025 23:09:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:09:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:10:06 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:10:10 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:17:04 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:17:06 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:17:13 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:17:44 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:17:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:42 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:48 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:18:50 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:19:00 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:19:02 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:21:49 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:18 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:22 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:40 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[01-Feb-2025 23:28:52 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 11:56:44 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 11:56:50 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 11:56:54 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 11:59:37 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 12:00:33 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 12:00:36 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 12:00:38 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 12:00:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:29:21 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:31:36 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:34:59 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:35:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:35:39 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:38:26 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[02-Feb-2025 15:39:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:29:23 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:29:43 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:29:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:29:57 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:33:34 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[10-Feb-2025 11:33:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 16:22:51 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 20:37:46 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 20:53:59 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 20:54:08 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 21:16:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[26-Feb-2025 21:16:28 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[03-Mar-2025 11:30:52 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[03-Mar-2025 11:37:13 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[03-Mar-2025 11:37:26 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:32:01 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:34:27 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:34:30 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:35:05 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:35:09 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:42:39 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:42:52 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:01 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:08 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:25 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:32 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:54 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:43:59 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:45:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:45:30 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:45:38 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:47:15 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:47:19 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:47:28 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:47:33 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:50:35 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:50:38 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:52:13 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 20:52:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[16-Mar-2025 21:01:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[27-Mar-2025 13:05:39 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[27-Mar-2025 13:06:39 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[27-Mar-2025 13:10:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/asebayco/public_html/moods/yonetici/navbar.php on line 2
+[27-Mar-2025 15:50:11 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 15:59:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:01:39 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:02:57 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:03:59 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:04:49 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:05:43 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:07:20 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:08:29 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:09:24 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:10:30 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:17:33 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:17:46 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:18:00 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:18:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:18:39 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:18:51 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:19:08 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:20:04 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:22:27 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:23:09 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:24:09 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:26:37 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:27:35 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:30:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:31:21 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:32:17 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:33:30 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:34:30 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:37:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:38:29 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:39:40 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:40:03 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:42:56 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:44:15 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:45:42 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:46:40 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:47:30 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:48:42 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:49:34 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:51:04 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:52:42 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:53:12 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:55:27 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:57:27 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:58:16 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:59:18 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 16:59:57 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:00:33 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:00:45 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:01:01 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:01:15 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:01:34 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:01:45 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:02:05 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:03:21 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:04:00 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:04:43 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:05:10 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:05:38 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:06:07 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:06:36 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:08:22 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:09:28 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:10:34 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:11:01 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:11:46 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:12:09 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:12:38 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:16:40 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:17:26 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:18:02 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:18:15 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:18:30 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:18:53 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:19:13 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:19:33 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:20:36 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:20:49 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:21:18 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:21:58 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:22:39 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:22:48 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:22:59 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:23:21 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:23:54 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:24:06 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[27-Mar-2025 17:24:35 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
+[04-Apr-2025 18:15:56 Europe/Istanbul] PHP Notice:  Undefined variable: içindekiler in /home/asebayco/public_html/moods/yonetici/menu-duzenle.php on line 87
